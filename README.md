@@ -13,7 +13,7 @@ I developed my Bank System using OOP as my first project to practice object-orie
 I spent about a full month developing, testing, and debugging the project while applying what I learned about OOP.
 
 
-![Main Screen](images/Main%20Screen.png)
+[View Project Screenshots](https://github.com/duaatoq312-sketch/Simple-Bank-System-OOP/tree/main/images)
 
 \## Features
 
