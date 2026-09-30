@@ -13,6 +13,8 @@ I developed my Bank System using OOP as my first project to practice object-orie
 I spent about a full month developing, testing, and debugging the project while applying what I learned about OOP.
 
 
+![Main Screen](main-screen.png)
+
 
 \## Features
 
