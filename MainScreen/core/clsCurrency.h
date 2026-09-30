@@ -3,7 +3,6 @@
 #include"clsString.h"
 #include<vector>
 #include<fstream>
-#include<filesystem>
 #include<string>
 using namespace std;
 
@@ -31,7 +30,6 @@ private:
 	{
 		fstream File;
 		vector<clsCurrency>vCurrencies;
-		cout << filesystem::current_path() << endl;
 		File.open("Currencies.txt", ios::in);
 		if (File.is_open())
 		{
