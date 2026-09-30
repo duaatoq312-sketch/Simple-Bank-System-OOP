@@ -1,0 +1,19 @@
+.vs/
+**/x64/
+**/Debug/
+**/Release/
+
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.tlog/
+*.user
+*.suo
+*.VC.db
+*.aps
+
+Users.txt
+Clients.txt
+Logins Register.txt
+TransferLog.txt
