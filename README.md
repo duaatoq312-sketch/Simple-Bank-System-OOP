@@ -157,10 +157,6 @@ A shared class used by different parts of the system to track the currently logg
 
 
 
-\*\*Note:\*\* `Users.txt`, `Clients.txt`, `TransferLog.txt`, and `Logins Register.txt` are intentionally not included in the repository. They contain runtime/test data, so I kept them separate from the source code instead of publishing them to GitHub.
-
-
-
 \## Notes
 
 
@@ -173,5 +169,12 @@ A shared class used by different parts of the system to track the currently logg
 
 \* Runtime and test data files are intentionally excluded from the GitHub repository.
 
+
+
+
+### Test Account
+
+**Username:** `User2`
+**Password:** `1234`
 
 
